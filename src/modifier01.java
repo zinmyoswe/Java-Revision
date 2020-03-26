@@ -1,7 +1,7 @@
 
 public class modifier01 {
 	public static void main(String args[]) {
-		Student myObj = new Student();
+		Student3 myObj = new Student3();
 		Courses myObj2 = new Courses();
 		
 		System.out.println("name : "+myObj.fname+" "+myObj.lname);
